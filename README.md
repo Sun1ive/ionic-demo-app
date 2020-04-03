@@ -14,7 +14,3 @@ To run the provided example, can use serve command:
 ```bash
 npx cap serve
 ```
-# ionic-demo-app
-# ionic-demo-app
-# ionic-demo-app
-# ionic-demo-app
